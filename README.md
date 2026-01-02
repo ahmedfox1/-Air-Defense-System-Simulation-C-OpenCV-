@@ -1,7 +1,5 @@
 # 🚀 Air Defense System Simulation (C++ & OpenCV)
 
-![Project Banner](https://via.placeholder.com/1000x400?text=Project+Screenshot+Placeholder)
-> *Replace this image with a screenshot or GIF of your system in action!*
 
 ## 📜 Overview
 This project is a **Real-time Air Defense System Simulation** built from scratch using **C++** and **OpenCV**. It transforms a standard webcam feed into a military-grade Heads-Up Display (HUD).
